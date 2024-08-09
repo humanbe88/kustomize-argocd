@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - registry.fpl.expert/humanbe88/hellonode:17
